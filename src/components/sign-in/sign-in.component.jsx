@@ -39,7 +39,7 @@ class SignIn extends React.Component{
             <div className="sign-in">
 
 
-                <h1>I already have an account !!! </h1>
+                <h1>I alreadyyyyyyy have an account !!! </h1>
                 <span className="title">Sign in with your email and password</span>
 
                 <form onSubmit={this.handleSubmit}>
